@@ -231,7 +231,8 @@ label {
 
 @media (min-width: 700px) {
     body {
-        background-image: url("./images/bg-intro-desktop.png")
+        background-image: url("./images/bg-intro-desktop.png");
+        padding: 0 1.5rem;
     }
     .container {
         grid-template-columns: 1fr 1fr;
